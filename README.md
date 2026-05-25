@@ -43,6 +43,3 @@ The environment file `environment.yml` records the main experimental environment
 If the CUDA version differs from the recorded environment, install the matching PyTorch and PyTorch Geometric packages for the target machine.
 
 
-Per-round accuracy and full-graph global-model accuracy are not printed by default in the repository version.
-
-
